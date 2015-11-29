@@ -1,0 +1,14 @@
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\bin\Debug\TitanicRClient.exe.config
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\bin\Debug\TitanicRClient.exe
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\bin\Debug\TitanicRClient.pdb
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\TitanicRClient.csprojResolveAssemblyReference.cache
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\MainWindow.g.cs
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\App.g.cs
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\TitanicRClient_MarkupCompile.cache
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\TitanicRClient_MarkupCompile.lref
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\MainWindow.baml
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\TitanicRClient.g.resources
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\TitanicRClient.Properties.Resources.resources
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\TitanicRClient.csproj.GenerateResource.Cache
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\TitanicRClient.exe
+C:\MVA\SQLServer2016\Sql2k16TitanicR\Code\TitanicRClient\TitanicRClient\obj\Debug\TitanicRClient.pdb
